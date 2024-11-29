@@ -1,4 +1,4 @@
-
+[中文文档](https://github.com/yowaimono/met/tree/main/docs/README_zh.md)
 
 # Met - MongoDB Enhanced Toolkit
 
