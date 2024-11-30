@@ -33,7 +33,7 @@ import (
 )
 
 func main() {
-	db, err := met.Init("mongodb://admin:0503qwm@111.229.7.180:27017", &met.Config{
+	db, err := met.Init("mongodb://admin:xxxxxxx@localhost:27017", &met.Config{
 		DbName: "test",
 	})
 
